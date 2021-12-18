@@ -2,6 +2,10 @@ This project was created as the base for the redaction of the article **Tutorial
 
 ## Objective
 
+## Originally From
+
+https://github.com/pierresegonne/tuto_form_react-redux.git
+
 The objective of this project was to create a boilerplate/ provide an easy
 way to create a form with react and redux. This project can be used as a base to implement any kind of forms.
 
